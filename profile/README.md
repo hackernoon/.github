@@ -62,5 +62,5 @@ All HackerNoon blogs are [free to read](https://hackernoon.com). Additionally, w
 ---
 
 <p align="center">
-  <a href="https://linkedin.com/company/hackernoon">LinkedIn</a> · <a href="https://x.com/hackernoon">X</a> · <a href="https://en.wikipedia.org/wiki/HackerNoon">Wikipedia</a> · <a href="https://hackernoon.cv"><code>.CV</code></a> · <a href="https://hackernoon.tech"><code>.TECH</code></a> · <a href="https://hackernoon.ai"><code>.AI</code></a> · 13 Staff · 1.2K Shareholders · 3M+ Visitors · <a href="https://business.hackernoon.com">4K+ Customers</a>
+  <a href="https://linkedin.com/company/hackernoon">LinkedIn</a> · <a href="https://x.com/hackernoon">X/Twitter</a> · <a href="https://en.wikipedia.org/wiki/HackerNoon">Wikipedia</a> · <a href="https://hackernoon.cv"><code>.CV</code></a> · <a href="https://hackernoon.tech"><code>.TECH</code></a> · <a href="https://hackernoon.ai"><code>.AI</code></a> · 13 Staff · 1.2K Shareholders · 3M+ Monthly Visitors · <a href="https://business.hackernoon.com">4K+ Customers</a>
 </p>
