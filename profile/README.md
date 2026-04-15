@@ -42,19 +42,20 @@ All HackerNoon blogs are [free to read](https://hackernoon.com). Additionally, w
 
 | Resource | Description | Links |
 |---|---|---|
-| <img src="https://raw.githubusercontent.com/hackernoon/pixel-icon-library/main/icons/SVG/regular/robot.svg" width="20"/> &nbsp; **AI** | Explore artificial intelligence news and resources. | [hackernoon.ai](https://hackernoon.ai) |
-| <img src="https://raw.githubusercontent.com/hackernoon/pixel-icon-library/main/icons/SVG/regular/search.svg" width="20"/> &nbsp; **AI&nbsp;Detector** | GPTZero partnership to preserve human publishing. | [blog post ↗](https://hackernoon.com/hackernoon-and-gptzero-partner-to-bring-ai-transparency-and-preserve-whats-human-in-tech-publishing) |
-| <img src="https://raw.githubusercontent.com/hackernoon/pixel-icon-library/main/icons/SVG/regular/octagon-check.svg" width="20"/> &nbsp; **Blockchain&nbsp;Backups** | Immutable tech history on the Arweave permaweb. | [hackernoon.com/text/web3](https://hackernoon.com/text/web3) |
+| <img src="https://raw.githubusercontent.com/hackernoon/pixel-icon-library/main/icons/SVG/regular/robot.svg" width="20"/> &nbsp; **AI** | Artificial intelligence news, blogs and resources. | [hackernoon.ai](https://hackernoon.ai) |
+| <img src="https://raw.githubusercontent.com/hackernoon/pixel-icon-library/main/icons/SVG/regular/search.svg" width="20"/> &nbsp; **AI&nbsp;Detector** | Ever blog on HackerNoon is reviewed via GPTZero. | [blog post ↗](https://hackernoon.com/hackernoon-and-gptzero-partner-to-bring-ai-transparency-and-preserve-whats-human-in-tech-publishing) |
+| <img src="https://raw.githubusercontent.com/hackernoon/pixel-icon-library/main/icons/SVG/regular/octagon-check.svg" width="20"/> &nbsp; **Blockchain&nbsp;Backups** | Immutable tech blogs backed up on Arweave permaweb. | [hackernoon.com/text/web3](https://hackernoon.com/text/web3) |
 | <img src="https://raw.githubusercontent.com/hackernoon/pixel-icon-library/main/icons/SVG/regular/pen.svg" width="20"/> &nbsp; **Blog** | Write and publish your technology stories. | [hackernoon.com/p/publish](https://hackernoon.com/p/publish) |
-| <img src="https://raw.githubusercontent.com/hackernoon/pixel-icon-library/main/icons/SVG/regular/paint-brush.svg" width="20"/> &nbsp; **Brand** | HackerNoon's brand assets and signature pixel fonts. | [brand.hackernoon.com](https://brand.hackernoon.com) |
+| <img src="https://raw.githubusercontent.com/hackernoon/pixel-icon-library/main/icons/SVG/regular/paint-brush.svg" width="20"/> &nbsp; **Brand** | HackerNoon's brand assets. | [brand.hackernoon.com](https://brand.hackernoon.com) |
 | <img src="https://raw.githubusercontent.com/hackernoon/pixel-icon-library/main/icons/SVG/regular/dollar.svg" width="20"/> &nbsp; **Business** | Tools for companies to grow their tech presence. | [business.hackernoon.com](https://business.hackernoon.com) |
 | <img src="https://raw.githubusercontent.com/hackernoon/pixel-icon-library/main/icons/SVG/regular/notebook.svg" width="20"/> &nbsp; **Business&nbsp;Blogging** | Publish company updates and official tech blogs. | [business.hackernoon.com/business-blogging](https://business.hackernoon.com/business-blogging) |
 | <img src="https://raw.githubusercontent.com/hackernoon/pixel-icon-library/main/icons/SVG/regular/chart-line.svg" width="20"/> &nbsp; **Companies** | Browse tech company news, rankings, and data. | [hackernoon.com/companies](https://hackernoon.com/companies) |
 | <img src="https://raw.githubusercontent.com/hackernoon/pixel-icon-library/main/icons/SVG/regular/octagon-check.svg" width="20"/> &nbsp; **Editing&nbsp;Protocol** | Our editorial standards and transparency layer. | [editingprotocol.com](https://editingprotocol.com) |
-| <img src="https://raw.githubusercontent.com/hackernoon/pixel-icon-library/main/icons/SVG/regular/book.svg" width="20"/> &nbsp; **Mobile&nbsp;App** | Read HackerNoon on the go via iOS and Android. | [iOS & Android](https://hackernoon.com/p/mobile-app) |
+| <img src="https://raw.githubusercontent.com/hackernoon/pixel-icon-library/main/icons/SVG/regular/octagon-check.svg" width="20"/> &nbsp; **Help**  | Documentation for blogging with HackerNoon. | [help.hackernoon.com](https://help.hackernoon.com) |
+| <img src="https://raw.githubusercontent.com/hackernoon/pixel-icon-library/main/icons/SVG/regular/book.svg" width="20"/> &nbsp; **Mobile&nbsp;App** | Read HackerNoon on the go via [iOS](https://apps.apple.com/us/app/hackernoon/id1437307418) and [Android](https://play.google.com/store/apps/details?id=com.noon.hackernoon).  | [Download App](https://hackernoon.com/p/mobile-app) |
 | <img src="https://raw.githubusercontent.com/hackernoon/pixel-icon-library/main/icons/SVG/regular/envelope.svg" width="20"/> &nbsp; **Newsletter** | Stay up to date with tech infiltrating everything. | [hackernoon.com/p/emails](https://hackernoon.com/p/emails) |
 | <img src="https://raw.githubusercontent.com/hackernoon/pixel-icon-library/main/icons/SVG/regular/chart-line.svg" width="20"/> &nbsp; **P2P&nbsp;Backups** | Decentralized data storage via the Sia network. | [sia.tech](https://sia.tech) |
-| <img src="https://raw.githubusercontent.com/hackernoon/pixel-icon-library/main/icons/SVG/regular/sparkles.svg" width="20"/> &nbsp; **Publishing&nbsp;Platform** | The software powering how HackerNoon operates. | [hackernoon.tech](https://hackernoon.tech) |
+| <img src="https://raw.githubusercontent.com/hackernoon/pixel-icon-library/main/icons/SVG/regular/sparkles.svg" width="20"/> &nbsp; **Publishing&nbsp;Platform** | The community CMS powering HackerNoon.com. | [hackernoon.tech](https://hackernoon.tech) |
 | <img src="https://raw.githubusercontent.com/hackernoon/pixel-icon-library/main/icons/SVG/regular/book.svg" width="20"/> &nbsp; **Read** | Access our 150K+ free technology library. | [hackernoon.com](https://hackernoon.com) |
 | <img src="https://raw.githubusercontent.com/hackernoon/pixel-icon-library/main/icons/SVG/regular/trophy.svg" width="20"/> &nbsp; **Startups** | Discover and vote for trending startups globally. | [startups.hackernoon.com](https://startups.hackernoon.com) |
 | <img src="https://raw.githubusercontent.com/hackernoon/pixel-icon-library/main/icons/SVG/regular/notebook.svg" width="20"/> &nbsp; **Terminal&nbsp;Reader** | A retro CLI-style web reader built for developers. | [terminal.hackernoon.com](https://terminal.hackernoon.com) |
@@ -62,5 +63,14 @@ All HackerNoon blogs are [free to read](https://hackernoon.com). Additionally, w
 ---
 
 <p align="center">
-  <a href="https://linkedin.com/company/hackernoon">LinkedIn</a> · <a href="https://x.com/hackernoon">X/Twitter</a> · <a href="https://en.wikipedia.org/wiki/HackerNoon">Wikipedia</a> · <a href="https://hackernoon.cv"><code>.CV</code></a> · <a href="https://hackernoon.tech"><code>.TECH</code></a> · <a href="https://hackernoon.ai"><code>.AI</code></a> · 13 Staff · 1.2K Shareholders · 3M+ Monthly Visitors · <a href="https://business.hackernoon.com">4K+ Customers</a>
+  <a href="https://linkedin.com/company/hackernoon">LinkedIn</a> · 
+  <a href="https://x.com/hackernoon">X/Twitter</a> · 
+  <a href="https://en.wikipedia.org/wiki/HackerNoon">Wikipedia</a> · 
+  <a href="https://hackernoon.cv"><code>.CV</code></a> · 
+  <a href="https://hackernoon.tech"><code>.TECH</code></a> · 
+  <a href="https://hackernoon.ai"><code>.AI</code></a> · 
+  <a href="https://hackernoon.com/about"><code>13 Staff</code></a> · 
+  <a href="https://startengine.com/hackernoon"><code>1.2K Shareholders</code></a> · 
+  <a href="https://business.hackernoon.com/reader-demographics"><code>3M+ Monthly Visitors</code></a> · 
+  <a href="https://business.hackernoon.com"><code>4K+ Customers</code></a>
 </p>
