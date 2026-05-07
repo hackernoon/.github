@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://hackernoon.com">
-    <img src="https://raw.githubusercontent.com/hackernoon/.github/main/profile/hackernoon-banner-final (2).svg" alt="The Official HackerNoon Read.ME — Technology Notebook" width="100%"/>
+    <img src="https://raw.githubusercontent.com/hackernoon/.github/main/profile/hackernoon-readme-banner.svg" alt="The Official HackerNoon Read.ME — Technology Notebook" width="100%"/>
   </a>
 </p>
 
