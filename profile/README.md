@@ -8,7 +8,9 @@
 
 [HackerNoon](https://hackernoon.com) publishes technology stories and builds publishing software. We open-source the tools and data behind the platform. We publish ~42 quality reads a day via the [Editing Protocol](https://editingprotocol.com). Our 150K+ blog technology library is all free to read. Support HackerNoon by [publishing a blog post](https://hackernoon.com/p/new) or [business blog post](https://business.hackernoon.com/business-blogging).
 
-### Free Publishing Software
+<br>
+
+## Free Publishing Software
 
 The design systems, editors, and templates that power how stories get written, styled, and published on [hackernoon.com](https://hackernoon.com). Everything here is free to use — in your own projects, your own products, or on HackerNoon itself.
 
@@ -21,7 +23,9 @@ The design systems, editors, and templates that power how stories get written, s
 | [**Tech Company CV**](https://github.com/hackernoon/tech-company-cv) | A retro terminal-style company profile template. Showcases products, metrics, leadership, milestones, and tech stack in a format developers actually want to read. Built for startups who'd rather show than tell. | [hackernoon.cv](https://hackernoon.cv) · [blog post ↗](https://hackernoon.com/introducing-the-tech-company-cv) |
 | [**HackerNoon Font**](https://github.com/hackernoon/font) | HackerNoon's signature pixel typeface, v2.0. Every character built on a 5×5 grid with curved edges. 26 letters, 10 numbers, 31 special characters. The font behind every headline on hackernoon.com. | [brand.hackernoon.com](https://brand.hackernoon.com) · [blog post ↗](https://hackernoon.com/hackernoon-the-beloved-pixel-font-now-coming-to-you-in-20) |
 
-### Open Data & Free Tech Education
+<br>
+
+## Open Data & Free Tech Education
 
 All HackerNoon blogs are [free to read](https://hackernoon.com). Additionally, we open-source research, datasets, and [tech company data](https://hackernoon.com/companies). Stay up to date with tech infiltrating everything by subscribing to [The HackerNoon Newsletter](https://hackernoon.com/p/emails).
 
@@ -36,15 +40,15 @@ All HackerNoon blogs are [free to read](https://hackernoon.com). Additionally, w
 | [**AI Grants Database**](https://hackernoon.ai/software-compute-grants-credits-search) | 316+ AI grant programs for software, compute credits, and research funding — tracked, categorized, and searchable. Updated regularly. If you're building with AI and need resources, start here. | [hackernoon.ai/grants ↗](https://hackernoon.ai/software-compute-grants-credits-search) · [hackernoon.ai](https://hackernoon.ai) |
 | [**Free Internet Plugin**](https://github.com/hackernoon/Free-Internet-Plugin) *(archived)* | A Chrome extension that removes paywalled content from Google search results. No longer actively maintained, but the code and the principle stand — a free internet is a better internet. | [blog post ↗](https://hackernoon.com/the-free-internet-plugin) · [Chrome Web Store ↗](https://chrome.google.com/webstore) |
 
----
+<br>
 
-### HackerNoon Ecosystem
+## HackerNoon Ecosystem
 
 | Resource | Description | Links |
 |---|---|---|
 | <img src="https://raw.githubusercontent.com/hackernoon/pixel-icon-library/main/icons/PNG/for-dark-mode/24px/regular/robot.png" width="24"  align="absmiddle"  align="absmiddle"/> &nbsp; **AI** | Artificial intelligence news, blogs and resources. | [hackernoon.ai](https://hackernoon.ai) |
 | <img src="https://raw.githubusercontent.com/hackernoon/pixel-icon-library/main/icons/PNG/for-dark-mode/24px/regular/search.png" width="24"  align="absmiddle"/> &nbsp; **AI&nbsp;Detector** | Ever blog on HackerNoon is reviewed via GPTZero. | [blog post ↗](https://hackernoon.com/hackernoon-and-gptzero-partner-to-bring-ai-transparency-and-preserve-whats-human-in-tech-publishing) |
-| <img src="https://raw.githubusercontent.com/hackernoon/pixel-icon-library/main/icons/PNG/for-dark-mode/24px/brands/arweave.png" width="24"  align="absmiddle"/> &nbsp; **Blockchain&nbsp;Backups** | Immutable tech blogs backed up on Arweave permaweb. | [hackernoon.com/text/web3](https://hackernoon.com/text/web3) |
+| <img src="https://raw.githubusercontent.com/hackernoon/pixel-icon-library/main/icons/PNG/for-dark-mode/24px/brands/arweave.png" width="24"  align="absmiddle"/> &nbsp; **Blockchain&nbsp;Backups** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Immutable tech blogs backed up on Arweave permaweb.&nbsp; &nbsp; &nbsp; &nbsp; | [hackernoon.com/text/web3](https://hackernoon.com/text/web3) |
 | <img src="https://raw.githubusercontent.com/hackernoon/pixel-icon-library/main/icons/PNG/for-dark-mode/24px/regular/pen.png" width="24"  align="absmiddle"/> &nbsp; **Blog** | Write and publish your technology stories. | [hackernoon.com/p/publish](https://hackernoon.com/p/publish) |
 | <img src="https://raw.githubusercontent.com/hackernoon/pixel-icon-library/main/icons/PNG/for-dark-mode/24px/brands/hackernoon.png" width="24"  align="absmiddle"/> &nbsp; **Brand** | HackerNoon's brand assets. | [brand.hackernoon.com](https://brand.hackernoon.com) |
 | <img src="https://raw.githubusercontent.com/hackernoon/pixel-icon-library/main/icons/PNG/for-dark-mode/24px/regular/briefcase.png" width="24"  align="absmiddle"/> &nbsp; **Business** | Tools for companies to grow their tech presence. | [business.hackernoon.com](https://business.hackernoon.com) |
@@ -58,7 +62,7 @@ All HackerNoon blogs are [free to read](https://hackernoon.com). Additionally, w
 | <img src="https://raw.githubusercontent.com/hackernoon/pixel-icon-library/main/icons/PNG/for-dark-mode/24px/regular/newspaper.png" width="24"  align="absmiddle"/> &nbsp; **Publishing&nbsp;Platform** | The community CMS powering HackerNoon.com. | [hackernoon.tech](https://hackernoon.tech) |
 | <img src="https://raw.githubusercontent.com/hackernoon/pixel-icon-library/main/icons/PNG/for-dark-mode/24px/regular/book-bookmark.png" width="24"  align="absmiddle"/> &nbsp; **Read** | Access our 150K+ free technology library. | [hackernoon.com](https://hackernoon.com) |
 | <img src="https://raw.githubusercontent.com/hackernoon/pixel-icon-library/main/icons/PNG/for-dark-mode/24px/purcats/startups.png" width="24"  align="absmiddle"/> &nbsp; **Startups** | Discover and vote for trending startups globally. | [startups.hackernoon.com](https://startups.hackernoon.com) |
-| <img src="https://raw.githubusercontent.com/hackernoon/pixel-icon-library/main/icons/PNG/for-dark-mode/24px/solid/code.png" width="24"  align="absmiddle"/> &nbsp; **Terminal&nbsp;Reader** | A retro CLI-style web reader built for developers. | [terminal.hackernoon.com](https://terminal.hackernoon.com) |
+| <img src="https://raw.githubusercontent.com/hackernoon/pixel-icon-library/main/icons/PNG/for-dark-mode/24px/solid/code-solid.png" width="24"  align="absmiddle"/> &nbsp; **Terminal&nbsp;Reader** | A retro CLI-style web reader built for developers. | [terminal.hackernoon.com](https://terminal.hackernoon.com) |
 
 ---
 
