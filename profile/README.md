@@ -46,7 +46,7 @@ All HackerNoon blogs are [free to read](https://hackernoon.com). Additionally, w
 
 | Resource | Description | Links |
 |---|---|---|
-| <img src="https://raw.githubusercontent.com/hackernoon/pixel-icon-library/main/icons/PNG/for-dark-mode/24px/regular/robot.png" width="24"  align="absmiddle"  align="absmiddle"/> &nbsp; **AI** | Artificial intelligence news, blogs and resources. | [hackernoon.ai](https://hackernoon.ai) |
+| <img src="https://raw.githubusercontent.com/hackernoon/pixel-icon-library/main/icons/PNG/for-dark-mode/24px/regular/robot.png" width="24"  align="absmiddle"  align="absmiddle"/> &nbsp; **AI** | HackerNoon's AI efforts summarized. | [hackernoon.ai](https://hackernoon.ai) |
 | <img src="https://raw.githubusercontent.com/hackernoon/pixel-icon-library/main/icons/PNG/for-dark-mode/24px/regular/search.png" width="24"  align="absmiddle"/> &nbsp; **AI&nbsp;Detector** | Ever HackerNoon post's reviewed via GPTZero. | [blog post ↗](https://hackernoon.com/hackernoon-and-gptzero-partner-to-bring-ai-transparency-and-preserve-whats-human-in-tech-publishing) |
 | <img src="https://raw.githubusercontent.com/hackernoon/pixel-icon-library/main/icons/PNG/for-dark-mode/24px/brands/arweave.png" width="24"  align="absmiddle"/> &nbsp; **Blockchain&nbsp;Backups** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Immutable backups up on Arweave permaweb.&nbsp; &nbsp; &nbsp; &nbsp; | [arweave.hackernoon.com/](https://arweave.hackernoon.com) |
 | <img src="https://raw.githubusercontent.com/hackernoon/pixel-icon-library/main/icons/PNG/for-dark-mode/24px/regular/pen.png" width="24"  align="absmiddle"/> &nbsp; **Blog** | Write and publish your technology stories. | [hackernoon.com/p/publish](https://hackernoon.com/p/publish) |
