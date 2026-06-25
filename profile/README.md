@@ -63,7 +63,9 @@ All HackerNoon blogs are [free to read](https://hackernoon.com). Additionally, w
 | <img src="https://raw.githubusercontent.com/hackernoon/pixel-icon-library/main/icons/PNG/for-dark-mode/24px/purcats/startups.png" width="24"  align="absmiddle"/> &nbsp; **Startups** | Discover and vote for trending startups globally. | [startups.hackernoon.com](https://startups.hackernoon.com) |
 | <img src="https://raw.githubusercontent.com/hackernoon/pixel-icon-library/main/icons/PNG/for-dark-mode/24px/solid/code-solid.png" width="24"  align="absmiddle"/> &nbsp; **Terminal&nbsp;Reader** | A retro CLI-style web reader built for developers. | [terminal.hackernoon.com](https://terminal.hackernoon.com) |
 
----
+
+[HackerNoon](https://hackernoon.com) is an independent technology publishing company run by [CEO & Creator David Smooke](https://hackernoon.com/u/david) and [COO & Board Member Linh Dao Smooke](https://hackernoon.com/u/linh) with [1,200+ shareholders](https://startengine.com/hackernoon). Our small, distributed team of ~12 people serves 4M+ monthly internet visitors. We built our own [community driven content management system to power HackerNoon](https://hackernoon.tech), where we've published 50k+ technology experts and [served 5k+ technology companies as customers](https://business.hackernoon.com/all-partners). 
+
 
 <p align="center">
   <a href="https://linkedin.com/company/hackernoon">LinkedIn</a> · 
