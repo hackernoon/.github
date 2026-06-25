@@ -74,5 +74,5 @@ All HackerNoon blogs are [free to read](https://hackernoon.com). Additionally, w
   <a href="https://hackernoon.com/p/about"><code>Staff</code></a> · 
   <a href="https://startengine.com/hackernoon"><code>1.2K Shareholders</code></a> · 
   <a href="https://business.hackernoon.com/reader-demographics"><code>3M+ Monthly Visitors</code></a> · 
-  <a href="https://business.hackernoon.com"><code>4K+ Customers</code></a>
+  <a href="https://business.hackernoon.com"><code>5K+ Customers</code></a>
 </p>
