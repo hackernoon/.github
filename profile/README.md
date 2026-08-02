@@ -6,7 +6,7 @@
 
 
 
-[HackerNoon](https://hackernoon.com) publishes technology stories and builds publishing software. We open-source the tools and data behind the platform. We publish ~42 quality reads a day via the [Editing Protocol](https://editingprotocol.com). Our 150K+ blog technology library is all free to read. Support HackerNoon by [publishing a blog post](https://hackernoon.com/p/new) or [business blog post](https://business.hackernoon.com/business-blogging).
+[HackerNoon](https://hackernoon.com) publishes technology stories and builds publishing software. We open-source the tools and data behind the platform. We publish ~42 quality reads a day via the [Editing Protocol](https://editingprotocol.com). Our 150K+ blog technology library is free for all to read. Support HackerNoon by [publishing a blog post](https://hackernoon.com/p/new) or [business blog post](https://business.hackernoon.com/business-blogging).
 
 <br>
 
